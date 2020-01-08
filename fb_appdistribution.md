@@ -32,8 +32,6 @@
     * org.ajoberstar:grgit 라이브러리 사용 : https://github.com/ajoberstar/grgit
     * 해당 라이브러리를 통해 Branch, Commit 한 계정, Commit Message 추가
 
-`
-
 ```Gradle
 task writeReleaseNote() {
     println '[writeReleaseNote Start]'
@@ -56,8 +54,6 @@ Message: $message
 """
 }
 ```
-
-`
 
 #### 보완 또는 추가 개발(또는 설정) 해야 할 점
 
