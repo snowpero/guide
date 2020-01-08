@@ -23,6 +23,7 @@
 #### Gradle 
 
 * 옵션값으로 releaseNotesFile 설정을 통해 배포시 ReleaseNote 설정 가능
+* 아래와 같이 AppDistribution에서 ReleaseNote 
 ![device-2020-01-08-144817](device-2020-01-08-144817.png)
 
 * ReleaseNote 쓰기
