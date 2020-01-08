@@ -23,7 +23,7 @@
 #### Gradle 
 
 * 옵션값으로 releaseNotesFile 설정을 통해 배포시 ReleaseNote 설정 가능
-* ![device-2020-01-08-144817](/Users/gilyongpark/Documents/img_edit/device-2020-01-08-144817.png)
+* ![device-2020-01-08-144817](device-2020-01-08-144817.png)
 
 * ReleaseNote 쓰기
   * 수동으로 ReleaseNote를 작성하지 않고 빌드시 자동으로 작성이 되도록 구현
