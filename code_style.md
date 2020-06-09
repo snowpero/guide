@@ -52,6 +52,8 @@ TextSize(sp)
 * d_exit_confirm : 뒤로 가기시 나갈건지 다시 물어보는 Dialog용 layout
 * v_rating_star : 평점 별표시 관련 CustomView
 
+
+
 ### ID (in xml Layout)
 
 > [View]_[설명]
@@ -73,4 +75,29 @@ TextSize(sp)
 | LinearLayout     | ll_            |
 | MyCutsomView     | my_custom_view |
 | Chip             | chip_          |
+
+
+
+### Drawable
+
+> [용도]_[설명]
+
+#### Selector
+
+* selector_txt_ : Text의 색상
+* selector_bg_ : View의 배경색
+
+
+
+#### Background
+
+* rounded_r6_bottom_ : 둥근모서리 처리 xml
+* shape_border_ : border 처리된 xml
+* shape_gradient_ : gradient 효과 xml
+
+
+
+#### Image
+
+* img_ : 그대로 사용되는 이미지 파일
 
